@@ -1,0 +1,6 @@
+li {
+  list-style: none;
+}
+button span:nth-child(1) {
+  margin-right: 5px;
+}
